@@ -11,6 +11,6 @@
 - 🔭 Currently learning `AI` and the `MERN` stack.
 - 🤓 I enjoy learning `new technologies` and practicing competitive programming.
 - 💪 `Fitness` is another lifestyle I embrace, always striving to improve every day.
-- 👔 Open to new `job opportunities`. Contact me: **daniel.torres.sw.dev@gmail.com**
+- 👔 Open to new `job opportunities`. Contact: **daniel.torres.sw.dev@gmail.com**
 
 <br>
