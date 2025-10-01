@@ -6,7 +6,7 @@
 ## 🙋‍♂️ About me
 - 🧑‍💻 I'm a Colombian `Systems and Computer Engineer` (UPTC), class of 2025.
 - 🎓 Currently pursuing a postgraduate degree in `Database Specialization` at UPTC.
-- 💡 I love software development — it’s my lifestyle.
+- 💡 I love software engineering — it’s my lifestyle.
 - 🛠️ Full-Stack developer specializing in the `PEAN` stack (Postgres, Express, Angular, Node.js).
 - 🔭 Currently learning `AI` and the `MERN` stack.
 - 🤓 I enjoy learning `new technologies` and practicing competitive programming.
