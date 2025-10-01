@@ -1,49 +1,16 @@
-# Project Title
+<h1 align="center">Hi there, I'm Daniel Torres <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=PEAN+Full-Stack+Developer" alt="Typing SVG" /></a>
+</p>
 
-## Table of Contents
+## 🙋‍♂️ About me
+- 🧑‍💻 I'm a Colombian `Systems and Computer Engineer` (UPTC), class of 2025.
+- 🎓 Currently pursuing a postgraduate degree in `Database Specialization` at UPTC.
+- 💡 I love software development — it’s my lifestyle.
+- 🛠️ Full-Stack developer specializing in the `PEAN` stack (Postgres, Express, Angular, Node.js).
+- 🔭 Currently learning `AI` and the `MERN` stack.
+- 🤓 I enjoy learning `new technologies` and practicing competitive programming.
+- 💪 `Fitness` is another lifestyle I embrace, always striving to improve every day.
+- 👔 Open to new `job opportunities`. Contact me: **daniel.torres.sw.dev@gmail.com**
 
-- [Project Title](#project-title)
-  - [Table of Contents](#table-of-contents)
-  - [About ](#about-)
-  - [Getting Started ](#getting-started-)
-    - [Prerequisites](#prerequisites)
-    - [Installing](#installing)
-  - [Usage ](#usage-)
-
-## About <a name = "about"></a>
-
-Write about 1-2 paragraphs describing the purpose of your project.
-
-## Getting Started <a name = "getting_started"></a>
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
-
-### Prerequisites
-
-What things you need to install the software and how to install them.
-
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running.
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
-
-## Usage <a name = "usage"></a>
-
-Add notes about how to use the system.
+<br>
