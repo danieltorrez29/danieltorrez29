@@ -1,13 +1,15 @@
 <div align="center"> 
   <h1>Hi there, I'm Daniel Torres <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="25" height="25" /> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&lines=Full-Stack+Developer" alt="Typing SVG" /></a>
+  <p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;MongoDB, MySQL, Spring, Angular, NodeJS&font=Fira%20Code&center=true&size=16&width=400&height=25&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  </p>
+  
 </div>
 
 ## 🙋‍♂️ About me
 - 🧑‍💻 I'm a Colombian `Systems and Computer Engineer` (UPTC), class of 2025.
 - 🎓 Currently pursuing a postgraduate degree in `Database Specialization` at UPTC.
 - 💡 I love software engineering — it’s my lifestyle.
-- 🛠️ Full-Stack developer specializing in the `PEAN` stack (Postgres, Express, Angular, Node.js).
 - 🔭 Currently learning `AI` and the `MERN` stack.
 - 🤓 I enjoy learning `new technologies` and practicing competitive programming.
 - 💪 `Fitness` is another lifestyle I embrace, always striving to improve every day.
@@ -45,7 +47,28 @@
 <br>
 <a href="https://git-scm.com"><img height="48" src="./img/git.svg" alt="git"></a>
 <a href="https://github.com"><img height="48" src="./img/github.svg" alt="github"></a>
-<a href="https://www.atlassian.com"><img height="48" src="./img/atlassian.svg" alt="atlassian"></a>
 <a href="https://bitbucket.org/product"><img height="48" src="./img/bitbucket.svg" alt="bitbucket"></a>
 <a href="https://www.atlassian.com/software/jira"><img height="48" src="./img/jira.svg" alt="jira"></a>
 <a href="https://www.scrum.org"><img height="48" src="./img/scrum.svg" alt="scrum"></a>
+
+## 📊 GitHub Stats
+
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="julian's Github Stats" src="https://github-readme-stats.vercel.app/api?username=danieltorrez29&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+  <br/>
+  <br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danieltorrez29&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="danieltorrez29" height="192px"/>
+  <br/>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages I've working on this public profile, It doesn't show reflect the skill level.
+</p>
+
+## 🌐 Connect with me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/daniel-torres-2d9a9t9a8"><img height="48" src="./img/linkedin.svg" alt="linkedin"></a>
+<a href="https://www.instagram.com/dani_torres29_"><img height="43" src="./img/instagram.svg" alt="instagram"></a>
+<a href="https://x.com/DanielTorrezA"><img height="48" src="./img/x.png" alt="x"></a>
+<a href="mailto:daniel.torres.sw.dev@gmail.com"><img height="45" src="./img/gmail.svg" alt="gmail"></a>
+</p>
