@@ -3,7 +3,7 @@
  
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?size=20&duration=5000&pause=1000&center=true&vcenter=true&width=1000&lines=Full-Stack+Developer;MongoDB,+MySQL,+Spring,+Angular,+NodeJS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?size=30&duration=5000&pause=1000&center=true&vcenter=true&width=1000&lines=Full-Stack+Developer;MongoDB,+MySQL,+Spring,+Angular,+NodeJS)](https://git.io/typing-svg)
   
 
 ## 🙋‍♂️ About me
