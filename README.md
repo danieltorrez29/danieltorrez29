@@ -3,10 +3,7 @@
  
 </div>
 
-
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=16&font=Fira+Code&pause=1000&width=435&lines=Full-Stack+Developer;MongoDB, MySQL, Spring, Angular, NodeJS" alt="Typing SVG" /></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?size=16&duration=5000&pause=100&lines=Full-Stack+Developer;MongoDB,+MySQL,+Spring,+Angular,+NodeJS)](https://git.io/typing-svg)
   
 
 ## 🙋‍♂️ About me
