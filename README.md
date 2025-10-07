@@ -57,11 +57,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="julian's Github Stats" src="https://github-readme-stats.vercel.app/api?username=danieltorrez29&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-  <br/>
-  <br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danieltorrez29&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="danieltorrez29" height="192px"/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Daniel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=danieltorrez29&show_icons=true&hide_rank=true&count_private=true&theme=algolia" height="200px" width="355px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danieltorrez29&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="danieltorrez29" height="200px" width="355px"/>
   <br/>
   <br/>
   <b>Note:</b> Top Languages is only a metric based on the languages I've used in this public profile — it doesn't reflect my skill level.
