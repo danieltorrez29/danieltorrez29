@@ -3,8 +3,9 @@
  
 </div>
 
+
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=FullStack+Developer+MERN" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=16&font=Fira+Code&pause=1000&width=435&lines=Full-Stack+Developer;MongoDB, MySQL, Spring, Angular, NodeJS" alt="Typing SVG" /></a>
 </p>
   
 
