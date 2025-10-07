@@ -1,10 +1,11 @@
 <div align="center"> 
   <h1>Hi there, I'm Daniel Torres <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="25" height="25" /> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-  <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;MongoDB, MySQL, Spring, Angular, NodeJS&font=Fira%20Code&center=true&size=16&width=400&height=25&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
-  </p>
-  
 </div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;MongoDB, MySQL, Spring, Angular, NodeJS&font=Fira%20Code&center=true&size=16&width=400&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
+  
 
 ## 🙋‍♂️ About me
 - 🧑‍💻 I'm a Colombian `Systems and Computer Engineer` (UPTC), class of 2025.
@@ -70,5 +71,5 @@
 <a href="https://www.linkedin.com/in/daniel-torres-2d9a9t9a8"><img height="48" src="./img/linkedin.svg" alt="linkedin"></a>
 <a href="https://www.instagram.com/dani_torres29_"><img height="43" src="./img/instagram.svg" alt="instagram"></a>
 <a href="https://x.com/DanielTorrezA"><img height="48" src="./img/x.png" alt="x"></a>
-<a href="mailto:daniel.torres.sw.dev@gmail.com"><img height="45" src="./img/gmail.svg" alt="gmail"></a>
+<a href="mailto:daniel.torres.sw.dev@gmail.com"><img height="40" src="./img/gmail.svg" alt="gmail"></a>
 </p>
