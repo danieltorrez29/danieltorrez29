@@ -1,9 +1,11 @@
 <div align="center"> 
   <h1>Hi there, I'm Daniel Torres <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="25" height="25" /> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-  <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&center=true&vCenter=true&lines=Full-Stack+Developer;MongoDB, MySQL, Spring, Angular, NodeJS" alt="Typing SVG" /></a>
-</p>
+ 
 </div>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=FullStack+Developer+MERN" alt="Typing SVG" /></a>
+</p>
   
 
 ## 🙋‍♂️ About me
