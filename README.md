@@ -73,5 +73,3 @@
 <a href="https://www.linkedin.com/in/daniel-torres-d1a9t9a8"><img height="40" src="./img/linkedin.svg" alt="linkedin"></a>
 <a href="https://www.instagram.com/dani_torres29_"><img height="34" src="./img/instagram.svg" alt="instagram"></a>
 <a href="https://x.com/DanielTorrezA"><img height="40" src="./img/x.png" alt="x"></a>
-<a href="mailto:daniel.torres.sw.dev@gmail.com"><img height="36" src="./img/gmail.svg" alt="gmail"></a>
-</p>
