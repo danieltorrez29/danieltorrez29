@@ -22,6 +22,8 @@
 <a href="https://maven.apache.org"><img height="42" src="./img/maven.svg" alt="maven"></a>
 <a href="https://gradle.org"><img height="42" src="./img/gradle.svg" alt="gradle"></a>
 <a href="https://groovy-lang.org"><img height="42" src="./img/groovy.svg" alt="groovy"></a>
+<a href="https://www.python.org"><img height="38" src="./img/python.svg" alt="python"></a>
+<a href="https://www.postman.com"><img height="38" src="./img/postman.svg" alt="postman"></a>
 <br>
 <a href="https://www.oracle.com"><img height="42" src="./img/oracle.svg" alt="oracle"></a>
 <a href="https://www.microsoft.com/en-us/sql-server"><img height="42" src="./img/sql-server.svg" alt="sql-server"></a>
@@ -30,6 +32,7 @@
 <a href="https://www.mongodb.com"><img height="42" src="./img/mongodb.svg" alt="mongodb"></a>
 <a href="https://www.linux.org"><img height="42" src="./img/linux.svg" alt="linux"></a>
 <a href="https://render.com"><img height="42" src="./img/render.png" alt="render"></a>
+<a href="https://www.powerdesigner.biz/ES"><img height="42" src="./img/powerdesigner.png" alt="powerdesigner"></a>
 <br>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img height="42" src="./img/html5.svg" alt="html5"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img height="42" src="./img/css3.svg" alt="css3"></a>
@@ -55,6 +58,7 @@
 <a href="https://github.com"><img height="42" src="./img/github.svg" alt="github"></a>
 <a href="https://bitbucket.org/product"><img height="42" src="./img/bitbucket.svg" alt="bitbucket"></a>
 <a href="https://www.atlassian.com/software/jira"><img height="42" src="./img/jira.svg" alt="jira"></a>
+<a href="https://www.drawio.com"><img height="42" src="./img/drawio.svg" alt="drawio"></a>
 <a href="https://www.scrum.org"><img height="42" src="./img/scrum.svg" alt="scrum"></a>
 
 ## 📈 GitHub Stats
