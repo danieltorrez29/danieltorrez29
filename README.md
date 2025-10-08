@@ -26,6 +26,7 @@
 <a href="https://www.oracle.com"><img height="40" src="./img/oracle.svg" alt="oracle"></a>
 <a href="https://www.microsoft.com/en-us/sql-server"><img height="40" src="./img/sql-server.svg" alt="sql-server"></a>
 <a href="https://www.mysql.com"><img height="40" src="./img/mysql.svg" alt="mysql"></a>
+<a href="https://www.oracle.com/database/sqldeveloper"><img height="35" src="./img/sql-developer.png" alt="sql-developer"></a>
 <a href="https://www.mongodb.com"><img height="40" src="./img/mongodb.svg" alt="mongodb"></a>
 <a href="https://www.linux.org"><img height="40" src="./img/linux.svg" alt="linux"></a>
 <a href="https://render.com"><img height="40" src="./img/render.png" alt="render"></a>
@@ -48,6 +49,8 @@
 <a href="https://vercel.com"><img height="40" src="./img/vercel.png" alt="netlify"></a>
 <a href="https://www.figma.com"><img height="40" src="./img/figma.svg" alt="figma"></a>
 <br>
+<a href="https://code.visualstudio.com"><img height="38" src="./img/vscode.svg" alt="vscode"></a>
+<a href="https://visualstudio.microsoft.com/es"><img height="38" src="./img/vs.svg" alt="vs"></a>
 <a href="https://git-scm.com"><img height="40" src="./img/git.svg" alt="git"></a>
 <a href="https://github.com"><img height="40" src="./img/github.svg" alt="github"></a>
 <a href="https://bitbucket.org/product"><img height="40" src="./img/bitbucket.svg" alt="bitbucket"></a>
