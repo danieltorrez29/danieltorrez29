@@ -6,7 +6,7 @@
   
 
 ## 💡 About me
-- 🧑‍💻 I'm a Colombian `Systems and Computing Engineer` from UPTC, class of 2025.
+- 🧑‍💻 I'm a Colombian `Computer and Systems Engineer` from UPTC, class of 2025.
 - 🎓 Currently pursuing a postgraduate degree in `Database Specialization` at UPTC.
 - ⚡ Coding, learning, and building — every day, one step further.
 - 🔭 Getting hands-on with `AI` and `MERN`, one project at a time.
