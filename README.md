@@ -16,46 +16,46 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-<a href="https://www.java.com/es"><img height="40" src="./img/java.svg" alt="java"></a>
-<a href="https://spring.io/projects/spring-framework" ><img height="40" src="./img/spring.svg" alt="spring"></a>
-<a href="https://hibernate.org"><img height="40" src="./img/hibernate.svg" alt="hibernate"></a>
-<a href="https://maven.apache.org"><img height="40" src="./img/maven.svg" alt="maven"></a>
-<a href="https://gradle.org"><img height="40" src="./img/gradle.svg" alt="gradle"></a>
-<a href="https://groovy-lang.org"><img height="40" src="./img/groovy.svg" alt="groovy"></a>
+<a href="https://www.java.com/es"><img height="42" src="./img/java.svg" alt="java"></a>
+<a href="https://spring.io/projects/spring-framework" ><img height="42" src="./img/spring.svg" alt="spring"></a>
+<a href="https://hibernate.org"><img height="42" src="./img/hibernate.svg" alt="hibernate"></a>
+<a href="https://maven.apache.org"><img height="42" src="./img/maven.svg" alt="maven"></a>
+<a href="https://gradle.org"><img height="42" src="./img/gradle.svg" alt="gradle"></a>
+<a href="https://groovy-lang.org"><img height="42" src="./img/groovy.svg" alt="groovy"></a>
 <br>
-<a href="https://www.oracle.com"><img height="40" src="./img/oracle.svg" alt="oracle"></a>
-<a href="https://www.microsoft.com/en-us/sql-server"><img height="40" src="./img/sql-server.svg" alt="sql-server"></a>
-<a href="https://www.mysql.com"><img height="40" src="./img/mysql.svg" alt="mysql"></a>
+<a href="https://www.oracle.com"><img height="42" src="./img/oracle.svg" alt="oracle"></a>
+<a href="https://www.microsoft.com/en-us/sql-server"><img height="42" src="./img/sql-server.svg" alt="sql-server"></a>
+<a href="https://www.mysql.com"><img height="42" src="./img/mysql.svg" alt="mysql"></a>
 <a href="https://www.oracle.com/database/sqldeveloper"><img height="35" src="./img/sql-developer.png" alt="sql-developer"></a>
-<a href="https://www.mongodb.com"><img height="40" src="./img/mongodb.svg" alt="mongodb"></a>
-<a href="https://www.linux.org"><img height="40" src="./img/linux.svg" alt="linux"></a>
-<a href="https://render.com"><img height="40" src="./img/render.png" alt="render"></a>
+<a href="https://www.mongodb.com"><img height="42" src="./img/mongodb.svg" alt="mongodb"></a>
+<a href="https://www.linux.org"><img height="42" src="./img/linux.svg" alt="linux"></a>
+<a href="https://render.com"><img height="42" src="./img/render.png" alt="render"></a>
 <br>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img height="40" src="./img/html5.svg" alt="html5"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img height="40" src="./img/css3.svg" alt="css3"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="40" src="./img/javascript.svg" alt="javascript"></a>
-<a href="https://www.typescriptlang.org"><img height="40" src="./img/typescript.svg" alt="typescript"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img height="42" src="./img/html5.svg" alt="html5"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img height="42" src="./img/css3.svg" alt="css3"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="42" src="./img/javascript.svg" alt="javascript"></a>
+<a href="https://www.typescriptlang.org"><img height="42" src="./img/typescript.svg" alt="typescript"></a>
 <br>
-<a href="https://angular.dev"><img height="40" src="./img/angular.svg" alt="angular"></a>
-<a href="https://getbootstrap.com"><img height="40" src="./img/bootstrap.svg" alt="bootstrap"></a>
-<a href="https://rxjs.dev"><img height="40" src="./img/rxjs.svg" alt="rxjs"></a>
-<a href="https://react.dev"><img height="40" src="./img/react.svg" alt="react"></a>
-<a href="https://babeljs.io"><img height="40" src="./img/babel.svg" alt="babel"></a>
-<a href="https://webpack.js.org"><img height="40" src="./img/webpack.svg" alt="webpack"></a>
-<a href="https://nodejs.org/es"><img height="40" src="./img/nodejs.svg" alt="nodejs"></a>
-<a href="https://www.npmjs.com"><img height="40" src="./img/npm.svg" alt="npm"></a>
+<a href="https://angular.dev"><img height="42" src="./img/angular.svg" alt="angular"></a>
+<a href="https://getbootstrap.com"><img height="42" src="./img/bootstrap.svg" alt="bootstrap"></a>
+<a href="https://rxjs.dev"><img height="42" src="./img/rxjs.svg" alt="rxjs"></a>
+<a href="https://react.dev"><img height="42" src="./img/react.svg" alt="react"></a>
+<a href="https://babeljs.io"><img height="42" src="./img/babel.svg" alt="babel"></a>
+<a href="https://webpack.js.org"><img height="42" src="./img/webpack.svg" alt="webpack"></a>
+<a href="https://nodejs.org/es"><img height="42" src="./img/nodejs.svg" alt="nodejs"></a>
+<a href="https://www.npmjs.com"><img height="42" src="./img/npm.svg" alt="npm"></a>
 <br>
-<a href="https://www.netlify.com"><img height="40" src="./img/netlify.svg" alt="netlify"></a>
-<a href="https://vercel.com"><img height="40" src="./img/vercel.png" alt="netlify"></a>
-<a href="https://www.figma.com"><img height="40" src="./img/figma.svg" alt="figma"></a>
+<a href="https://www.netlify.com"><img height="42" src="./img/netlify.svg" alt="netlify"></a>
+<a href="https://vercel.com"><img height="42" src="./img/vercel.png" alt="netlify"></a>
+<a href="https://www.figma.com"><img height="42" src="./img/figma.svg" alt="figma"></a>
 <br>
 <a href="https://code.visualstudio.com"><img height="38" src="./img/vscode.svg" alt="vscode"></a>
 <a href="https://visualstudio.microsoft.com/es"><img height="38" src="./img/vs.svg" alt="vs"></a>
-<a href="https://git-scm.com"><img height="40" src="./img/git.svg" alt="git"></a>
-<a href="https://github.com"><img height="40" src="./img/github.svg" alt="github"></a>
-<a href="https://bitbucket.org/product"><img height="40" src="./img/bitbucket.svg" alt="bitbucket"></a>
-<a href="https://www.atlassian.com/software/jira"><img height="40" src="./img/jira.svg" alt="jira"></a>
-<a href="https://www.scrum.org"><img height="40" src="./img/scrum.svg" alt="scrum"></a>
+<a href="https://git-scm.com"><img height="42" src="./img/git.svg" alt="git"></a>
+<a href="https://github.com"><img height="42" src="./img/github.svg" alt="github"></a>
+<a href="https://bitbucket.org/product"><img height="42" src="./img/bitbucket.svg" alt="bitbucket"></a>
+<a href="https://www.atlassian.com/software/jira"><img height="42" src="./img/jira.svg" alt="jira"></a>
+<a href="https://www.scrum.org"><img height="42" src="./img/scrum.svg" alt="scrum"></a>
 
 ## 📈 GitHub Stats
 
@@ -70,6 +70,6 @@
 ## 🌐 Connect with me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/daniel-torres-d1a9t9a8"><img height="40" src="./img/linkedin.svg" alt="linkedin"></a>
+<a href="https://www.linkedin.com/in/daniel-torres-d1a9t9a8"><img height="42" src="./img/linkedin.svg" alt="linkedin"></a>
 <a href="https://www.instagram.com/dani_torres29_"><img height="34" src="./img/instagram.svg" alt="instagram"></a>
-<a href="https://x.com/DanielTorrezA"><img height="40" src="./img/x.png" alt="x"></a>
+<a href="https://x.com/DanielTorrezA"><img height="42" src="./img/x.png" alt="x"></a>
