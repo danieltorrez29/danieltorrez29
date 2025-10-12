@@ -52,6 +52,7 @@
 <a href="https://vercel.com"><img height="42" src="./img/vercel.png" alt="netlify"></a>
 <a href="https://www.figma.com"><img height="42" src="./img/figma.svg" alt="figma"></a>
 <br>
+<a href="https://www.jetbrains.com/idea"><img height="38" src="./img/intellijidea.png" alt="intellijidea"></a>
 <a href="https://code.visualstudio.com"><img height="38" src="./img/vscode.svg" alt="vscode"></a>
 <a href="https://visualstudio.microsoft.com/es"><img height="38" src="./img/vs.svg" alt="vs"></a>
 <a href="https://git-scm.com"><img height="42" src="./img/git.svg" alt="git"></a>
